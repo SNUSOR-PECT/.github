@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 by Kevin Nam
 
-somebody make a fancy page here plz - from kvnam
+Somebody make a fancy page here plz 
 
 I hope to be handing this profile down to whoever is interested in running the open-source repositories in the lab.
 
